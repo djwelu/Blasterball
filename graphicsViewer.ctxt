@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=graphicsViewer()
-comment1.params=
-comment1.target=Ball\ getKYS()
-comment2.params=g
-comment2.target=void\ paintComponent(java.awt.Graphics)
-numComments=3
